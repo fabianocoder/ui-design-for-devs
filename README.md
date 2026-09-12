@@ -49,3 +49,30 @@ Combinations: Use typography to create hierarchy and keep the UI to 2–3 font f
 
 
 https://fonts.google.com/
+
+### Unsplash
+
+High-quality photos for websites, apps, and UI projects.
+https://unsplash.com/
+
+### Pixabay
+
+Free photos, illustrations, vectors, and videos for creative projects.
+https://pixabay.com/
+
+### Pexels
+
+Free stock photos and videos for websites, apps, and presentations.
+https://www.pexels.com/
+
+### Freepik
+
+Photos, vectors, illustrations, icons, and graphic resources. Some assets require attribution or a premium license.
+https://br.freepik.com/
+
+### Phosphor Icons
+
+A flexible icon library with clean and consistent icons for UI projects.
+Icons are available in SVG and multiple styles and weights.
+
+https://phosphoricons.com/
