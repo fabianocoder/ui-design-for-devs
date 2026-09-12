@@ -41,7 +41,9 @@ Google Fonts is a free library of fonts that can be used in websites, mobile app
 Use the filters to explore font styles, preview different texts, and choose typography that matches your interface.
 
 Legibility: Prefer clear fonts that work well at different sizes and screens.
+
 Personality: Use fonts like Roboto, Lato, Open Sans, Montserrat, or Poppins according to the tone of the interface.
+
 Emotion: Serif fonts like Times New Roman feel more classic, while fonts like Lobster feel more informal.
 Combinations: Use typography to create hierarchy and keep the UI to 2–3 font families.
 
