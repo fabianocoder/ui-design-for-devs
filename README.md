@@ -77,6 +77,37 @@ Icons are available in SVG and multiple styles and weights.
 
 https://phosphoricons.com/
 
+
+### Heuristics analysis
+
+A heuristic analysis in UI is an evaluation of an interface using a set of usability best practices as a reference.
+
+In the case of Nielsen's Heuristics, you review screens and user flows to check things such as whether the system provides feedback, the terminology is clear, users can undo actions, the interface is consistent, and errors are handled properly.
+
+For example, on a payment screen, you might check whether there is a loading indicator, whether the “Cancel” button is visible, whether error messages clearly explain the problem, and whether the visual patterns are consistent with the rest of the app.
+
+In short, it is a structured review of an interface used to identify usability issues before testing it with real users.
+
+
+### Questions
+- What are the main goals of the application?
+
+- Who is the target audience, and what are their needs and preferences?
+
+- How does the application differentiate itself from competitors and create value for users?
+
+- What are the main user flows, and how do they support the business goals?
+
+- How does the business model influence the interface design and user experience?
+
+### UI Bad Smell  
+
+Excessive navigation depth: If the sitemap shows that users need to go through several navigation layers to access important pages, this may indicate a complex and unintuitive user experience.
+
+Confusing navigation: If the connections between different sections of the application are unclear in the sitemap, users may struggle to find what they are looking for, leading to a frustrating experience.
+
+Content redundancy: If the sitemap reveals multiple pages with similar or duplicated content, this can confuse users and make it harder to find relevant information.
+
 ### Nielsen's Usability Heuristics
 Visibility of system status: Keep users informed about what is happening.
 
