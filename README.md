@@ -76,3 +76,24 @@ A flexible icon library with clean and consistent icons for UI projects.
 Icons are available in SVG and multiple styles and weights.
 
 https://phosphoricons.com/
+
+### Nielsen's Usability Heuristics
+Visibility of system status: Keep users informed about what is happening.
+
+Match with the real world: Use familiar language, concepts, and conventions.
+
+User control and freedom: Allow users to undo, cancel, or go back easily.
+
+Consistency and standards: Keep patterns, icons, and behaviors consistent.
+
+Error prevention: Design interfaces that help users avoid mistakes.
+
+Recognition over recall: Make options and information visible instead of forcing users to remember them.
+
+Flexibility and efficiency: Support both beginners and experienced users.
+
+Minimalist design: Avoid unnecessary information and visual clutter.
+
+Error recovery: Show clear messages that explain errors and how to fix them.
+
+Help and documentation: Provide guidance when users need it.
