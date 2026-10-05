@@ -128,3 +128,32 @@ Minimalist design: Avoid unnecessary information and visual clutter.
 Error recovery: Show clear messages that explain errors and how to fix them.
 
 Help and documentation: Provide guidance when users need it.
+
+### Established UI Patterns 
+
+Good UI design often builds on patterns already established by widely used applications.
+Users develop expectations based on interfaces they already know, so following familiar conventions can reduce cognitive effort and make an interface easier to understand.
+For example, e-commerce apps commonly place the shopping cart icon in the top-right corner, often with a badge showing the number of items.
+The goal is not to copy another product, but to reuse patterns that users already understand.
+
+### Usability Testing
+
+Usability testing consists of observing people using a website, app, or system to identify difficulties, confusion, and friction points.
+
+It helps uncover problems that may go unnoticed by the team and prevents users from abandoning the product because of a confusing experience.
+
+How to Do It
+
+- Define what you want to test.
+
+- Choose participants similar to your real users.
+
+- Prepare specific tasks.
+
+- Observe without interfering.
+
+- Analyze patterns and common difficulties.
+
+Example: In a recipe app, ask users to find a specific recipe. If several participants struggle, the navigation, organization, or search feature may need improvement.
+
+Usability testing is part of User-Centered Design, an approach focused on creating products that are useful, easy to use, and aligned with users’ real needs.
