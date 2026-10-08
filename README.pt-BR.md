@@ -104,19 +104,39 @@ Antes de avaliar uma interface, também é importante entender o contexto do pro
 
 **Redundância de conteúdo:** conteúdos semelhantes ou duplicados podem gerar confusão e dificultar a navegação.
 
-## Heurísticas de Usabilidade de Nielsen
+### Heurísticas de Usabilidade de Nielsen — Exemplos em PDV
 
-- **Visibilidade do status do sistema:** mantenha o usuário informado sobre o que está acontecendo.
-- **Correspondência entre o sistema e o mundo real:** utilize linguagem e conceitos familiares.
-- **Controle e liberdade do usuário:** permita cancelar, voltar ou desfazer ações.
-- **Consistência e padrões:** mantenha comportamentos, termos e elementos visuais consistentes.
-- **Prevenção de erros:** projete a interface para evitar erros antes que eles aconteçam.
-- **Reconhecimento em vez de memorização:** torne informações e opções visíveis.
-- **Flexibilidade e eficiência:** atenda tanto usuários iniciantes quanto experientes.
-- **Design estético e minimalista:** evite informações e elementos desnecessários.
-- **Ajude o usuário a reconhecer e corrigir erros:** apresente mensagens claras e possíveis soluções.
-- **Ajuda e documentação:** forneça orientação quando necessário.
+- **Visibilidade do status do sistema:** Mantenha o usuário informado sobre o que está acontecendo.
+  - **Exemplo:** Após enviar um pedido para a cozinha, mostre status como **Enviando**, **Enviado**, **Em preparo** ou **Pronto**.
 
+- **Correspondência entre o sistema e o mundo real:** Use linguagem, conceitos e convenções familiares ao usuário.
+  - **Exemplo:** Use termos como **Mesa**, **Pedido**, **Cozinha**, **Conta** e **Dividir pagamento**, evitando termos técnicos do sistema.
+
+- **Controle e liberdade do usuário:** Permita desfazer, cancelar ou voltar facilmente.
+  - **Exemplo:** Se um garçom adicionar um item errado, permita removê-lo antes de confirmar o pedido.
+
+- **Consistência e padrões:** Mantenha padrões, ícones, termos e comportamentos consistentes.
+  - **Exemplo:** Botões como **Confirmar**, **Cancelar**, **Pagar** e **Voltar** devem manter o mesmo comportamento em todo o PDV.
+
+- **Prevenção de erros:** Crie interfaces que ajudem o usuário a evitar erros.
+  - **Exemplo:** Impeça o fechamento de uma mesa enquanto ainda existir saldo pendente.
+
+- **Reconhecimento em vez de memorização:** Mostre opções e informações em vez de obrigar o usuário a lembrar delas.
+  - **Exemplo:** Exiba categorias, números de mesa, formas de pagamento e produtos mais usados diretamente na tela.
+
+- **Flexibilidade e eficiência de uso:** Atenda tanto usuários iniciantes quanto experientes.
+  - **Exemplo:** Novos funcionários podem usar menus visíveis, enquanto usuários experientes podem utilizar atalhos e favoritos.
+
+- **Design estético e minimalista:** Evite informações desnecessárias e excesso visual.
+  - **Exemplo:** Durante o lançamento de um pedido, mostre apenas as informações e ações necessárias para aquela tarefa.
+
+- **Ajude o usuário a reconhecer, diagnosticar e corrigir erros:** Mostre mensagens claras e possíveis soluções.
+  - **Exemplo:** Em vez de **"Erro de pagamento 105"**, mostre **"Pagamento recusado. Tente outro cartão ou forma de pagamento."**
+
+- **Ajuda e documentação:** Forneça orientação quando necessário.
+  - **Exemplo:** Ofereça ajuda contextual para operações como dividir uma conta, transferir itens entre mesas ou cancelar um pagamento.
+
+  
 ## Padrões de UI já Estabelecidos
 
 Uma boa interface muitas vezes utiliza padrões já consolidados em outros produtos.
