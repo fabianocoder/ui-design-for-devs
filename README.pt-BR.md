@@ -104,7 +104,7 @@ Antes de avaliar uma interface, também é importante entender o contexto do pro
 
 **Redundância de conteúdo:** conteúdos semelhantes ou duplicados podem gerar confusão e dificultar a navegação.
 
-### Heurísticas de Usabilidade de Nielsen — Exemplos em PDV
+## Heurísticas de Usabilidade de Nielsen — Exemplos em PDV
 
 - **Visibilidade do status do sistema:** Mantenha o usuário informado sobre o que está acontecendo.
   - **Exemplo:** Após enviar um pedido para a cozinha, mostre status como **Enviando**, **Enviado**, **Em preparo** ou **Pronto**.
