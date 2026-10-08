@@ -107,7 +107,7 @@ Antes de avaliar uma interface, também é importante entender o contexto do pro
 ## Heurísticas de Usabilidade de Nielsen — Exemplos em PDV
 
 - **Visibilidade do status do sistema:** Mantenha o usuário informado sobre o que está acontecendo.
-  - **Exemplo:** Após enviar um pedido para a cozinha, mostre status como **Enviando**, **Enviado**, **Em preparo** ou **Pronto**.
+  - **Exemplo:** Após enviar um pedido para a cozinha, mostre status como **Enviando** ou **Pronto**.
 
 - **Correspondência entre o sistema e o mundo real:** Use linguagem, conceitos e convenções familiares ao usuário.
   - **Exemplo:** Use termos como **Mesa**, **Pedido**, **Cozinha**, **Conta** e **Dividir pagamento**, evitando termos técnicos do sistema.
