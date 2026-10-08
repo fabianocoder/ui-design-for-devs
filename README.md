@@ -97,18 +97,38 @@ Before evaluating the interface, it is also useful to understand the product con
 
 **Content redundancy:** Multiple pages containing similar or duplicated content can confuse users and make relevant information harder to find.
 
-### Nielsen's Usability Heuristics
 
-- **Visibility of system status:** Keep users informed about what is happening.
-- **Match between the system and the real world:** Use familiar language, concepts, and conventions.
-- **User control and freedom:** Allow users to undo, cancel, or go back easily.
-- **Consistency and standards:** Keep patterns, icons, terminology, and behaviors consistent.
-- **Error prevention:** Design interfaces that help users avoid mistakes.
-- **Recognition rather than recall:** Make options and information visible instead of forcing users to remember them.
-- **Flexibility and efficiency of use:** Support both beginners and experienced users.
-- **Aesthetic and minimalist design:** Avoid unnecessary information and visual clutter.
-- **Help users recognize, diagnose, and recover from errors:** Provide clear error messages and possible solutions.
-- **Help and documentation:** Provide guidance when users need it.
+### Nielsen's Usability Heuristics — POS Examples
+
+- **Visibility of system status:** Keep users informed about what is happening.  
+  Example: After sending an order to the kitchen, show statuses such as **Sending**, **Sent**, **Preparing**, or **Ready**.
+
+- **Match between the system and the real world:** Use familiar language, concepts, and conventions.  
+  Example: Use terms like **Table**, **Order**, **Kitchen**, **Bill**, and **Split Payment** instead of technical system terminology.
+
+- **User control and freedom:** Allow users to undo, cancel, or go back easily.  
+  Example: If a waiter adds the wrong item, allow them to remove it before confirming the order.
+
+- **Consistency and standards:** Keep patterns, icons, terminology, and behaviors consistent.  
+  Example: Buttons like **Confirm**, **Cancel**, **Pay**, and **Back** should behave consistently across the POS.
+
+- **Error prevention:** Design interfaces that help users avoid mistakes.  
+  Example: Prevent a table from being closed while there is still an unpaid balance.
+
+- **Recognition rather than recall:** Make options and information visible instead of forcing users to remember them.  
+  Example: Show categories, table numbers, payment methods, and frequently used products directly on screen.
+
+- **Flexibility and efficiency of use:** Support both beginners and experienced users.  
+  Example: New employees can use visible menus, while experienced users can use shortcuts and favorites.
+
+- **Aesthetic and minimalist design:** Avoid unnecessary information and visual clutter.  
+  Example: During order entry, show only the information and actions required for that task.
+
+- **Help users recognize, diagnose, and recover from errors:** Provide clear error messages and possible solutions.  
+  Example: Instead of **“Payment Error 105”**, show **“Payment declined. Try another card or payment method.”**
+
+- **Help and documentation:** Provide guidance when users need it.  
+  Example: Offer contextual help for operations such as splitting a bill, transferring items between tables, or cancelling a payment.
 
 ### Established UI Patterns
 
